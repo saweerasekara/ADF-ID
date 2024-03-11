@@ -1,0 +1,25 @@
+{
+  "name": "@saweerasekara/adf-id",
+  "version": "1.0.3",
+  "description": "tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saweerasekara/ADF-ID.git"
+  },
+  "keywords": [
+    "TEA"
+  ],
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saweerasekara/ADF-ID/issues"
+  },
+  "homepage": "https://github.com/saweerasekara/ADF-ID#readme",
+  "dependencies": {
+    "adf-id": "^1.0.3"
+  }
+}
